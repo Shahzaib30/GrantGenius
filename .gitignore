@@ -1,0 +1,22 @@
+# Environment variable files
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folders
+venv/
+.env/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code or PyCharm IDE settings
+.vscode/
+.idea/
+
+# Replit backups (if using Replit)
+.replit/
